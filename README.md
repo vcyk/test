@@ -64,6 +64,7 @@ Copy this link **https://ex-change.github.io** and paste into Pi Browser.
 ![](https://ex-change.github.io/images/Screenshot_20220109_172255_pi.browser.jpg)
 
 ## Tap on Balance button to view current balances in your trading account.
+> The V coin balance is what you have mined by being online as a node creating value blocks in the blockchain.
 
 ![](https://ex-change.github.io/images/Screenshot_20220109_172305_pi.browser.jpg)
 
@@ -82,7 +83,7 @@ Copy this link **https://ex-change.github.io** and paste into Pi Browser.
 
 ![](https://ex-change.github.io/images/Screenshot_20220109_172453_pi.browser.jpg)
 
-## Confirm or Cancel the order.
+## Continue or Cancel the order.
 
 ![](https://ex-change.github.io/images/Screenshot_20220109_172509_pi.browser.jpg)
 
@@ -91,7 +92,7 @@ Copy this link **https://ex-change.github.io** and paste into Pi Browser.
 ![](https://ex-change.github.io/images/Screenshot_20220109_172519_pi.browser.jpg)
 
 ## Once your request has succeeded, you will see the block number which you can tap to view detail.
-> The block contains multiple other orders and transactions sorted in time sequence.
+> The block contains multiple other orders including your order, and other transactions sorted in time sequence.
 
 ![](https://ex-change.github.io/images/Screenshot_20220109_172526_pi.browser.jpg)
 
