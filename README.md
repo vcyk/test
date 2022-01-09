@@ -26,7 +26,7 @@ Copy this link **https://ex-change.github.io** and paste into Pi Browser.
 
 ## Tap on the blue person (upper right of screen).
 
-![](https://ex-change.github.io/images/Screenshot_20220109_171736a_pi.browser.jpg)
+
 
 ## Select a language for your trading account secret key (mnemonic phrase).
 
