@@ -1,14 +1,15 @@
 # Welcome to Pi Consensus Trading!
-<br /><br /> ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 
-Copy this link **https://ex-change.github.io** and paste into Pi Browser. 
-## Allow Pi Network to share information with Pi Consensus.`
-![](https://ex-change.github.io/images/Screenshot_20220109_171102_pi.browser.jpg)
-<br /><br />
 
+<br /><br /> ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 
+## Copy this link **https://ex-change.github.io** and paste into Pi Browser. 
+## When prompted to share information with Pi Consensus, tap Allow
+![](https://ex-change.github.io/images/Screenshot_20220109_171102_pi.browser.jpg)
+
+<br /><br />![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 
 ## Read the Consensus statement and disclaimer.
 ![](https://ex-change.github.io/images/Screenshot_20220109_171131_pi.browser.jpg)
-<br /><br />
 
+<br /><br />![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 
 ## Scroll down until you see either one of these:
 - I agree
 > Your registration matches your Pi username. This brings you to the Consensus Trading.
@@ -16,11 +17,10 @@ Copy this link **https://ex-change.github.io** and paste into Pi Browser.
 > You have not registered for consensus trading, or may have registered incorrect Pi username. You need to register your Pi username in the [Telegram group](https://t.me/worldofpi)
 - Current batch enabled for trading is ...
 > You belong to one of the next batches. Please wait for your batch to be enabled soon.
-
 ![](https://ex-change.github.io/images/Screenshot_20220109_171140_pi.browser.jpg)
 
+<br /><br />![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 
 ## Select the language you are most familiar with.
-
 ![](https://ex-change.github.io/images/Screenshot_20220109_171606_pi.browser.jpg)
 
 ## Tap on the blue person (upper right of screen).
