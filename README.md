@@ -1,8 +1,7 @@
 # Welcome to Pi Consensus Trading!
 
 <br /><br /> 
-## Copy this link **https://ex-change.github.io** and paste into Pi Browser. 
-> Going live on 15 Jan. For now you see error 404
+## Copy this link **https://ex-change.github.io** and paste into Pi Browser. Going live on 15 Jan. For now you see error 404
 ## When prompted to share information with Pi Consensus, tap Allow
 ![](https://ex-change.github.io/images/Screenshot_20220109_171102_pi.browser.jpg)
 
@@ -103,3 +102,40 @@
 
 ![](https://ex-change.github.io/images/Screenshot_20220109_172526_pi.browser.jpg)
 
+<br /><br />![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 
+## Tap the Order button to view order status.
+> If you want to cancel an order placed previously, tap on Cancel order in the Order Status column.
+![](https://ex-change.github.io/images/Screenshot_20220109_172255a_pi.browser.jpg)
+![](https://ex-change.github.io/images/Screenshot_20220109_172550_pi.browser.jpg)
+
+<br /><br />![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 
+## Default chart is Tick but you can select any of these K charts (Day, 4h, 2h, 60m, 30m, 15m, 5m, or 1m)
+## For technical indicators, you can select one of (MA, BOLL) and one of (KDJ, MACD, RSI, BRAR, WR, BIAS, VOL)
+![](https://ex-change.github.io/images/Screenshot_20220109_172604_pi.browser.jpg)
+
+<br /><br />![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 
+## Tap the person button to view all your orders and transactions (Record details) using the Block Explorer.
+![](https://ex-change.github.io/images/Screenshot_20220109_171736a_pi.browser.jpg)
+![](https://ex-change.github.io/images/Screenshot_20220109_173238_pi.browser.jpg)
+
+<br /><br />![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 
+## Tap on green Create block to view all the blocks you have created.
+![](https://ex-change.github.io/images/Screenshot_20220109_173238a_pi.browser.jpg)
+![](https://ex-change.github.io/images/Screenshot_20220109_173249_pi.browser.jpg)
+
+<br /><br />![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 
+
+
+<br /><br />![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 
+
+
+<br /><br />![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 
+
+
+<br /><br />![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 
+
+
+<br /><br />![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 
+
+
+<br /><br />![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 
