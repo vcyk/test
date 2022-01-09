@@ -24,7 +24,7 @@ Copy this link **https://ex-change.github.io** and paste into Pi Browser.
 
 ![](https://ex-change.github.io/images/Screenshot_20220109_171606_pi.browser.jpg)
 
-## Tap on the blue person (top right of screen).
+## Tap on the blue person (upper right of screen).
 
 ![](https://ex-change.github.io/images/Screenshot_20220109_171736_pi.browser.jpg)
 
@@ -40,7 +40,7 @@ Copy this link **https://ex-change.github.io** and paste into Pi Browser.
 
 ![](https://ex-change.github.io/images/Screenshot_20220109_171932_pi.browser.jpg)
 
-## Tap on the Pi coin logo (top left of screen). Menu slides open.
+## Tap on the Pi coin logo (upper left of screen). Menu slides open.
 ## Select Faucet to request Test-Pi and Test-$
 
 ![](https://ex-change.github.io/images/Screenshot_20220109_172034_pi.browser.jpg)
