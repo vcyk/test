@@ -63,4 +63,12 @@ Copy this link **https://ex-change.github.io** and paste into Pi Browser.
 ![](https://ex-change.github.io/images/Screenshot_20220109_173151a_pi.browser.jpg)
 ![](https://ex-change.github.io/images/Screenshot_20220109_172255_pi.browser.jpg)
 
+## Tap on Balance button to view current balances in your trading account.
+
+![](https://ex-change.github.io/images/Screenshot_20220109_172305_pi.browser.jpg)
+
+## Tap on Buy button to place a Buy order.
+> The lighted area shows the best 5 selling / buying prices and quantities currently on the order book. You can either type in your wanted price, or tap a price from order book.
+
+![](https://ex-change.github.io/images/Screenshot_20220109_172329_pi.browser.jpg)
 
