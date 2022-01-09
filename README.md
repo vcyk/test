@@ -1,5 +1,5 @@
-# Welcome to Pi Consensus Trading!<br /><br />
-
+# Welcome to Pi Consensus Trading!
+<br /><br />
 Copy this link **https://ex-change.github.io** and paste into Pi Browser. 
 
 ## Allow Pi Network to share information with Pi Consensus.
