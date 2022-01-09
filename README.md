@@ -40,8 +40,17 @@ Copy this link **https://ex-change.github.io** and paste into Pi Browser.
 
 ![](https://ex-change.github.io/images/Screenshot_20220109_171932_pi.browser.jpg)
 
-## Tap on the Pi coin logo (upper left of screen). Menu slides open.
-## Select Faucet to request Test-Pi and Test-$
+## Tap on the Pi coin logo (upper left of screen). Menu slides open. Select Faucet to request Test-Pi and Test-$
 
 ![](https://ex-change.github.io/images/Screenshot_20220109_172034_pi.browser.jpg)
+
+## The Faucet generates a request code which you need to paste in the Telegram group. Just tick will bring you to Telegram.
+
+![](https://ex-change.github.io/images/Screenshot_20220109_172046_pi.browser.jpg)
+
+## Paste the faucet request code in Telegram.
+> There are conditions to be fulfilled for faucet to release Test-Pi and Test-$ to prevent people from too frequently making faucet requests. Current and previous request must have at least 15 minutes interval. Account balance must be less than half of the faucet release amount.
+
+![](https://ex-change.github.io/images/Screenshot_20220109_172106_org.telegram.messenger.jpg)
+
 
