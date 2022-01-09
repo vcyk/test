@@ -105,6 +105,7 @@
 <br /><br />![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 
 ## Tap the Order button to view order status.
 > If you want to cancel an order placed previously, tap on Cancel order in the Order Status column.
+
 ![](https://ex-change.github.io/images/Screenshot_20220109_172255a_pi.browser.jpg)
 ![](https://ex-change.github.io/images/Screenshot_20220109_172550_pi.browser.jpg)
 
@@ -124,18 +125,18 @@
 ![](https://ex-change.github.io/images/Screenshot_20220109_173249_pi.browser.jpg)
 
 <br /><br />![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 
+## Tap on any block number to view content of the block. And you can traverse the blockchain using the arrow buttons.
+> Left to view the block before current block. Right to view the block after current block. Double Right to view the last block.
 
-
-<br /><br />![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 
-
-
-<br /><br />![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 
-
+![](https://ex-change.github.io/images/Screenshot_20220109_173520a_pi.browser.jpg)
 
 <br /><br />![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 
-
+## Tap the Finished button to view completed (transacted) orders.
+![](https://ex-change.github.io/images/Screenshot_20220109_172255b_pi.browser.jpg)
+![](https://ex-change.github.io/images/Screenshot_20220109_174010_pi.browser.jpg)
 
 <br /><br />![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 
+## Tap the person button to view your placed orders and transacted orders using the Block Explorer.
+![](https://ex-change.github.io/images/Screenshot_20220109_171736a_pi.browser.jpg)
+![](https://ex-change.github.io/images/Screenshot_20220109_174109_pi.browser.jpg)
 
-
-<br /><br />![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 
