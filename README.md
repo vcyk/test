@@ -53,4 +53,14 @@ Copy this link **https://ex-change.github.io** and paste into Pi Browser.
 
 ![](https://ex-change.github.io/images/Screenshot_20220109_172106_org.telegram.messenger.jpg)
 
+## Tap the blue person to view the faucet transactions under Category "Transfer to trading account".
+
+![](https://ex-change.github.io/images/Screenshot_20220109_171736a_pi.browser.jpg)
+![](https://ex-change.github.io/images/Screenshot_20220109_172216_pi.browser.jpg)
+
+## Tap the Trade icon to view the Trading screen.
+
+![](https://ex-change.github.io/images/Screenshot_20220109_173151a_pi.browser.jpg)
+![](https://ex-change.github.io/images/Screenshot_20220109_172255_pi.browser.jpg)
+
 
