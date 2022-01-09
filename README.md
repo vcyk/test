@@ -17,30 +17,31 @@
 > You have not registered for consensus trading, or may have registered incorrect Pi username. You need to register your Pi username in the [Telegram group](https://t.me/worldofpi)
 - Current batch enabled for trading is ...
 > You belong to one of the next batches. Please wait for your batch to be enabled soon.
+
 ![](https://ex-change.github.io/images/Screenshot_20220109_171140_pi.browser.jpg)
 
 <br /><br />![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 
 ## Select the language you are most familiar with.
 ![](https://ex-change.github.io/images/Screenshot_20220109_171606_pi.browser.jpg)
 
+<br /><br />![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 
 ## Tap on the blue person (upper right of screen).
-
 ![](https://ex-change.github.io/images/Screenshot_20220109_171736a_pi.browser.jpg)
 
+<br /><br />![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 
 ## Select a language for your trading account secret key (mnemonic phrase).
-
 ![](https://ex-change.github.io/images/Screenshot_20220109_171904_pi.browser.jpg)
 
+<br /><br />![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 
 ## Tap the green button to copy the mnemonic phrase secret key.
-
 ![](https://ex-change.github.io/images/Screenshot_20220109_171916_pi.browser.jpg)
 
+<br /><br />![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
 # IMPORTANT !! Keep the secret key in a safe place only you know.
-
 ![](https://ex-change.github.io/images/Screenshot_20220109_171932_pi.browser.jpg)
 
+<br /><br />![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 
 ## Tap on the Pi coin logo (upper left of screen). Menu slides open. Select Faucet to request Test-Pi and Test-$
-
 ![](https://ex-change.github.io/images/Screenshot_20220109_172034_pi.browser.jpg)
 
 ## The Faucet generates a request code which you need to paste in the Telegram group. Just tick will bring you to Telegram.
