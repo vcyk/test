@@ -1,6 +1,6 @@
 # Welcome to Pi Consensus Trading!
 
-<br /><br /> ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) 
+<br /><br /> 
 ## Copy this link **https://ex-change.github.io** and paste into Pi Browser. 
 ## When prompted to share information with Pi Consensus, tap Allow
 ![](https://ex-change.github.io/images/Screenshot_20220109_171102_pi.browser.jpg)
