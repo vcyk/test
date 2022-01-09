@@ -72,3 +72,26 @@ Copy this link **https://ex-change.github.io** and paste into Pi Browser.
 
 ![](https://ex-change.github.io/images/Screenshot_20220109_172329_pi.browser.jpg)
 
+## Tap on Sell button to place a Sell order.
+> The lighted area shows the best 5 selling / buying prices and quantities currently on the order book. You can either type in your wanted price, or tap a price from order book.
+
+![](https://ex-change.github.io/images/Screenshot_20220109_172420_pi.browser.jpg)
+
+## Decide on order price and order quantity.
+> For sake of consensus, order quantity must be whole number. Future real trading will support decimals.
+
+![](https://ex-change.github.io/images/Screenshot_20220109_172453_pi.browser.jpg)
+
+## Confirm or Cancel the order.
+
+![](https://ex-change.github.io/images/Screenshot_20220109_172509_pi.browser.jpg)
+
+## When you confirm the order, your request will be submitted to the blockchain which will take a few seconds to complete.
+
+![](https://ex-change.github.io/images/Screenshot_20220109_172519_pi.browser.jpg)
+
+## Once your request has succeeded, you will see the block number which you can tap to view detail.
+> The block contains multiple other orders and transactions sorted in time sequence.
+
+![](https://ex-change.github.io/images/Screenshot_20220109_172526_pi.browser.jpg)
+
