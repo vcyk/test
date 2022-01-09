@@ -2,15 +2,15 @@
 
 Copy this link **https://ex-change.github.io** and paste into Pi Browser. 
 
-Allow Pi Network to share information with Pi Consensus.
+**Allow Pi Network to share information with Pi Consensus.**
 
 ![](https://ex-change.github.io/images/Screenshot_20220109_171102_pi.browser.jpg)
 
-Read the Consensus statement and disclaimer.
+**Read the Consensus statement and disclaimer.**
 
 ![](https://ex-change.github.io/images/Screenshot_20220109_171131_pi.browser.jpg)
 
-Scroll down until you see either one of these:
+**Scroll down until you see either one of these:**
 - I agree
 > Your registration matches your Pi username. This brings you to the Consensus Trading.
 - Register
